@@ -13,3 +13,6 @@ The game is fully customisable with sliders being used to alter 3 specific prope
 In addition, 3 presets have been made, Easy, Medium and Hard. These allow the users to choose how difficult the game gets. 
 The size of each ballon dictates the distance between the 2 fingers in a pinching action, IE larger balloons required a larger pinch. 
 When designing the game, the whole premise was usablility. Making sure that the users had full control over how the game ran. 
+
+<img src="https://raw.githubusercontent.com/Arcticchamo/Balloon-Popper/master/Balloons/Assets/Images/Balloon_Popper_1.PNG" />
+<img src="https://raw.githubusercontent.com/Arcticchamo/Balloon-Popper/master/Balloons/Assets/Images/Balloon_Popper_2.PNG" />
